@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(16, 16, 20);
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+p {
+  color: gray;
+  font-size: 12 px;
+  font-weight: 300;
+}
+
+input {
+    background-color: transparent;
+}
+
+.pbu-movie-card > img:first-of-type {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.pbu-movie-card > div:first-of-type {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.my-6 {
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
+.logo2 {
+    height: 80px;
+}
+
+.informations {
+    line-height: 200%;
+}
+
+p.subscribe {
+    color: red;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.header {
+    background-color: transparent;
+    
+}
+
+.header-button {
+    background-color: red;
+    color: white;
+    height: 32px;
+    width: 100px;
+
+}

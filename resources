@@ -1,0 +1,107 @@
+  <div class="pbu-movie-card">
+          <img
+            class="rl_image"
+            src="/assets/scarface.jpg"
+            alt="Scarface Movie Poster"
+          />
+          <div>
+            <h3>Scarface</h3>
+            <p>170 MIN | Crime Drama</p>
+          </div>
+        </div>
+        <div>
+          <div class="pbu-movie-card">
+            <img
+              class="rl_image"
+              src="/assets/matrix.jpg"
+              alt="Matrix Movie Poster"
+            />
+            <div>
+              <h3>Matrix</h3>
+              <p>136 MIN | Action</p>
+            </div>
+          </div>
+        </div>
+        <div class="pbu-movie-card">
+          <img
+            class="rl_image"
+            src="/assets/lotr.jpeg"
+            alt="Lord of the Rings Movie Poster"
+          />
+          <div>
+            <h3>Lord of the Rings: The Two Towers</h3>
+            <p>179 MIN | Fantasy</p>
+          </div>
+        </div>
+        <div>
+          <div class="pbu-movie-card">
+            <img
+              class="rl_image"
+              src="/assets/spiritedaway.jpg"
+              alt="Spirited Away Movie Poster"
+            />
+            <div>
+              <h3>Spirited Away</h3>
+              <p>125 MIN | Anime</p>
+            </div>
+          </div>
+        </div>
+        <div class="pbu-movie-card">
+          <img
+            class="rl_image"
+            src="/assets/scarface.jpg"
+            alt="Scarface Movie Poster"
+          />
+          <div>
+            <h3>Scarface</h3>
+            <p>170 MIN | Crime Drama</p>
+          </div>
+        </div>
+        <div>
+          <div class="pbu-movie-card">
+            <img
+              class="rl_image"
+              src="/assets/scarface.jpg"
+              alt="Scarface Movie Poster"
+            />
+            <div>
+              <h3>Scarface</h3>
+              <p>170 MIN | Crime Drama</p>
+            </div>
+          </div>
+        </div>
+        <div class="pbu-movie-card">
+          <img
+            class="rl_image"
+            src="/assets/scarface.jpg"
+            alt="Scarface Movie Poster"
+          />
+          <div>
+            <h3>Scarface</h3>
+            <p>170 MIN | Crime Drama</p>
+          </div>
+        </div>
+        <div>
+          <div class="pbu-movie-card">
+            <img
+              class="rl_image"
+              src="/assets/scarface.jpg"
+              alt="Scarface Movie Poster"
+            />
+            <div>
+              <h3>Scarface</h3>
+              <p>170 MIN | Crime Drama</p>
+            </div>
+          </div>
+        </div>
+
+
+
+
+        <p class="text-header">Movies</p>
+        <p class="text-header">Coming next</p>
+        <p class="text-header">Cinemas</p>
+        <p class="text-header">Events</p>
+        <p class="text-header">Gifts & Promotions</p>
+        <p class="text-header">B2B</p>
+        <p class="text-header">Contact</p>
